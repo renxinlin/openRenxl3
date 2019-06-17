@@ -16,6 +16,7 @@
 	<url>http://maven.apache.org</url>
 	<properties>
 	<!-- 合并测试1:推送test -->
+	<!-- 合并测试2:推送dev -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		
     <docker.image.prefix>https://hub.docker.com/r/renxl/hellodocker</docker.image.prefix>
